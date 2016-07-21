@@ -1,0 +1,19 @@
+@mixin font-family($font-family) {
+ 
+  font-family:$font-family;
+}
+@mixin font-light($font-light) {
+ 
+  font-weight:$font-light;
+}@mixin font-normal($font-normal) {
+ 
+  font-weight:$font-normal;
+}
+@mixin font-medium($font-medium) {
+ 
+  font-weight:$font-medium;
+}
+@mixin font-semi_bold($font-semi_bold) {
+ 
+  font-weight:$font-semi_bold;
+}
